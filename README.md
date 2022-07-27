@@ -9,4 +9,16 @@ Beyond that i'm experimenting with Coding Games, mouting gaming PC unit for my f
 
 Feel free to DM me about work in Aix-En-Provence area, i'm looking for an apprenticeship with O'Clock shchol as a fullstack dev at the start of Octobre.
 
+Here's a breif summary of my *skills* :
+- php
+- html/css
+- js
+- SQL
+- Symfony
+- MySQL
+- Bootstrap
+
+
+Your usual starter stack for web dev in a nutshell
+
 <!-- Je me connais, si je mets pas ce lien ici je vais le perdre -> https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/ -->
