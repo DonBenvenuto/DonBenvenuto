@@ -21,4 +21,4 @@ Here's a breif summary of my *skills* :
 
 Your usual starter stack for web dev in a nutshell
 
-<!-- Je me connais, si je mets pas ce lien ici je vais le perdre -> https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/ -->
+<!-- Je me connais, si je mets pas ce lien ici je vais le perdre -> https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/ https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
