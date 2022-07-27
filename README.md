@@ -3,7 +3,7 @@
 ## WELCOME, to my github profile
 
 Right now i'm focusing on my Espigoule Generator app, a website that references cult lines from the movie Les quatres saisons d'Espigoule
-It is openly inspired by https://ouich.es/ concept. It is fun, light and makes me practice Botstrap and might interest the 10 persons on the internet that still know about this film.
+It is openly inspired by https://ouich.es/ concept. It is fun, light and makes me practice Bootstrap and might interest the 10-15 persons on the internet that still know about this film.
 
 Beyond that i'm experimenting with Coding Games, mouting gaming PC unit for my freinds and keeping up on the last tech trends.
 
