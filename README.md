@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-**DonBenvenuto/DonBenvenuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WELCOME, to my github profile
 
-Here are some ideas to get you started:
+Right now i'm focusing on my Espigoule Generator app, a website that references cult lines from the movie Les quatres saisons d'Espigoule
+It is openly inspired by https://ouich.es/ concept. It is fun, lightn, makes me practice Botstrap and might interest the 10 persons on the internet that still know about this film.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+Beyond that i'm experimenting with Coding Games, mouting gaming PC unit for my freinds and keeping up on the last tech trends.
+
+Feel free to DM me about work in Aix-En-Provence area, i'm looking for an apprenticeship as a fullstack dev at the start of Octobre.
