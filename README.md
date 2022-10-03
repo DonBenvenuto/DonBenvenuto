@@ -21,4 +21,12 @@ Here's a breif summary of my *skills* :
 
 Your usual starter stack for web dev in a nutshell
 
+<!--
+
+For educational purposes
+
+https://github.com/DonBenvenuto/donbenvenuto.github.io
+
+-->
+
 <!-- Je me connais, si je mets pas ce lien ici je vais le perdre -> https://code-garage.fr/blog/comment-personnaliser-son-profil-github-avec-un-fichier-readme/ https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
